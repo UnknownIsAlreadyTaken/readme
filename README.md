@@ -7,7 +7,7 @@
     * [Views](#s2p3)
     
 ## How to start <a name="p0"></a>
-In `S:\Expl_is\Macarie\Program\web2py` run `web2py.exe` on either ip its user's choice.
+In `..\Program\web2py` run `web2py.exe` on either ip its user's choice.
 
 With any password that user desires example: `123`.
 ![package screenshot](img/main.png)
@@ -39,18 +39,18 @@ Inside site-packages is where we place all the additional libraries/packages we 
 ![package screenshot](img/site-package.png)
 
 ## How Web2py works <a name="p3"></a>
-In `S:\Expl_is\Macarie\Program\web2py\applications` is where are the web interfaces deployed.
+In `..\Program\web2py\applications` is where are the web interfaces deployed.
 
 ![package screenshot](img/apps.png)
 
-In `S:\Expl_is\Macarie\Program\web2py\applications\cnas` is the web interface for CNAS dead and foreign list repartition.
+In `..\Program\web2py\applications\cnas` is the web interface for CNAS dead and foreign list repartition.
 - The '*controllers*' is the directory that responds for the backend.
 - The '*views*' is the directory that responds for the frontend.
  
 ![package screenshot](img/Screenshot_1.png)
 
 ### Controllers <a name="s1p3"></a>
-`S:\Expl_is\Macarie\Program\web2py\applications\cnas\controllers`
+`..\Program\web2py\applications\cnas\controllers`
 
 ![package screenshot](img/Screenshot_2.png)
 
@@ -145,12 +145,12 @@ def error2():
 ```
 
 ### Views <a name="s2p3"></a>
-In `S:\Expl_is\Macarie\Program\web2py\applications\cnas\views\default` is the default main page of `CNAS`.
+In `..\Program\web2py\applications\cnas\views\default` is the default main page of `CNAS`.
 ![package screenshot](img/Screenshot_5.png)
 
 ![package screenshot](img/Screenshot_6.png)
 
-In `S:\Expl_is\Macarie\Program\web2py\applications\cnas\views\foreignlist` we can see the pages of 
+In `..\Program\web2py\applications\cnas\views\foreignlist` we can see the pages of 
 the functions that we saw in the [Controllers](#s1p3) respectively.
 
 ![package screenshot](img/Screenshot_7.png)
