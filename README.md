@@ -10,6 +10,7 @@
 In `..\Program\web2py` run `web2py.exe` on either ip its user's choice.
 
 With any password that user desires example: `123`.
+
 ![package screenshot](img/main.png)
 
 Then in:
@@ -146,6 +147,7 @@ def error2():
 
 ### Views <a name="s2p3"></a>
 In `..\Program\web2py\applications\cnas\views\default` is the default main page of `CNAS`.
+
 ![package screenshot](img/Screenshot_5.png)
 
 ![package screenshot](img/Screenshot_6.png)
