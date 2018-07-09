@@ -1,12 +1,16 @@
 # Table of contents
-1. [How to start](#p0)
-2. [Directories](#p1)
+1. [Directories](#p0)
+2. [How to start](#p1)
 3. [Stuff needed(libraries/packages)](#p2)
 4. [How Web2py works](#p3)
     * [Controllers](#s1p3)
     * [Views](#s2p3)
-    
-## How to start <a name="p0"></a>
+## Directories <a name="p0"></a>:
+- `f` - foreignlist dumper
+- `d` - deadlist dumper
+- `S:\Expl_is\Macarie\Program\web2py\webpy.exe` - New py2web server starter.
+
+## How to start <a name="p1"></a>
 In `..\Program\web2py` run `web2py.exe` on either ip its user's choice.
 
 With any password that user desires example: `123`.
@@ -25,10 +29,7 @@ Then in:
 > ![package screenshot](img/Screenshot_11.png)
 
 
-## Directories <a name="p1"></a>:
-- `f` - foreignlist dumper
-- `d` - deadlist dumper
-- `S:\Expl_is\Macarie\Program\web2py\webpy.exe` - New py2web server starter.
+
 
 ## Stuff needed(libraries/packages) <a name="p2"></a>
 - *Python 2.7*
